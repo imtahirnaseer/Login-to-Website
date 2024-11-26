@@ -53,7 +53,7 @@ Upon successful login, users are redirected to the **TahirGPT** page, where they
 
 You can view the live demo of this project at the following link:
 
-[TahirGPT Chatbot](https://imtahirnaseer.github.io/TahirGPT/)
+[Login to TahirGPT Chatbot](https://imtahirnaseer.github.io/Login-to-TahirGPT/)
 
 ---
 

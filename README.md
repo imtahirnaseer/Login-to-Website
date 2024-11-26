@@ -33,19 +33,19 @@ The project consists of the following files:
 
 When a user is on the registration page, they can enter their details (email and password) to create an account.
 
-![Register Page](image1.png)
+![Register Page](https://github.com/imtahirnaseer/Login-to-TahirGPT/blob/c9190c0f0283654e788898ba265cd828dc1b0d7b/Screenshot%202024-11-26%20121337.png)
 
 ### 2. Login Page
 
 After registering, users can switch back to the login page and enter their credentials (email and password) to log in.
 
-![Login Page](image2.png)
+![Login Page](https://github.com/imtahirnaseer/Login-to-TahirGPT/blob/c9190c0f0283654e788898ba265cd828dc1b0d7b/Screenshot%202024-11-26%20121446.png)
 
 ### 3. Successful Login
 
 Upon successful login, users are redirected to the **TahirGPT** page, where they can interact with the chatbot.
 
-![TahirGPT Page](image3.png)
+![TahirGPT Page](https://github.com/imtahirnaseer/Login-to-TahirGPT/blob/c9190c0f0283654e788898ba265cd828dc1b0d7b/Screenshot%202024-11-24%20015014.png)
 
 ---
 

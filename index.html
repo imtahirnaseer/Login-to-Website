@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Tahir Login Page</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 id="form-title">Please Login</h1>
+      <form id="login-form">
+        <div class="form-control">
+          <input type="text" id="email" required />
+          <label for="email"><span>Email</span></label>
+        </div>
+
+        <div class="form-control">
+          <input type="password" id="password" required />
+          <label for="password"><span>Password</span></label>
+        </div>
+
+        <button type="submit" class="btn" id="login-btn">Login</button>
+
+        <p class="text">
+          Don't have an account? <a href="#" id="switch-to-register">Register</a>
+        </p>
+      </form>
+
+      <!-- Register Form -->
+      <form id="register-form" style="display: none;">
+        <div class="form-control">
+          <input type="text" id="new-email" required />
+          <label for="new-email"><span>Email</span></label>
+        </div>
+
+        <div class="form-control">
+          <input type="password" id="new-password" required />
+          <label for="new-password"><span>Password</span></label>
+        </div>
+
+        <button type="submit" class="btn" id="register-btn">Register</button>
+
+        <p class="text">
+          Already have an account? <a href="#" id="switch-to-login">Login</a>
+        </p>
+      </form>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -36,7 +36,7 @@ loginForm.addEventListener("submit", (e) => {
   // Validate credentials
   if (email === storedEmail && password === storedPassword) {
     alert("Login successful!");
-    window.location.href = "https://imtahirnaseer.github.io/TahirGPT/"; // Redirect to chatbot
+    window.location.href = "https://imtahirnaseer.github.io/Portfolio/"; // Redirect to chatbot
   } else {
     alert("Invalid credentials. Please check your email and password.");
   }
